@@ -21,7 +21,7 @@ The source code is translated to byte code, which is then run by the python virt
 * ### mutagen - It is for handling the metadeta of music files. To display the title of the song
 * ### tkinter - It was for creating the basic GUI of the system to manually control the music player.
 
-## **4.Methadology** ## 
+## **4.Methodology** ## 
 
 OpenCV is a open source library used for the real time Image processing.
 
